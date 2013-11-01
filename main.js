@@ -34,6 +34,7 @@ var Page = {
 		Page.promptInfo();
 		Page.changeButtonText();
 		Page.changeLinkText();
+		Page.myButton.removeEventListener('click', Page.clickResponse); //here you specify the type you want to remove, and the process
 	},
 
 	promptInfo: function() {

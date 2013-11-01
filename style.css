@@ -1,0 +1,33 @@
+.box {
+	background-color: yellow;
+	height: 250px;
+	width:350px;
+	margin: 40px;
+}
+
+.buttons {
+	position: center;
+	margin: 40px;
+	padding: 10px;
+}
+
+.green {
+	background-color: green;
+	height: 250px;
+	width:350px;
+	margin: 40px;
+}
+
+.blue {
+	background-color: blue;
+	height: 250px;
+	width:350px;
+	margin: 40px;
+}
+
+.red {
+	background-color: red;
+	height: 250px;
+	width:350px;
+	margin: 40px;
+}
